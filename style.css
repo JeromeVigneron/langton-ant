@@ -1,0 +1,9 @@
+/* Width and height formatting */
+*, *::before, *::after {box-sizing: border-box;}
+
+/* General dark theme */
+html {background-color: #000000; color: #FFFFFF;}
+
+/* Fit the content to the display */
+body {margin: 0; padding: 0;}
+main > canvas#grid {width: 100%; height: 100%;}
